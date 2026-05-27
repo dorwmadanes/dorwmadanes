@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dor Wachner
 - 👀 I’m interested in Algorithmics, ML, Math and Sports.
-- 📫 How to reach me: **email**: dorw@madanes.com **phone**: +972-509529152
+- 📫 How to reach me: **email**: dorw@madanes.com / wachner.dor@gmail.com **phone**: +972-509529152
 - 😄 Pronouns: וכנר
 - ⚡ Fun fact: used to be a professional basketball player.
 
